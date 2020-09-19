@@ -9,3 +9,5 @@ Novice web developer.No experience in IT. However, I strive to be a good web dev
 **Skills**: HTML5, CSS3, basic JS,Intermediate English
 
 **Education**: Philological and legal
+
+**I am waiting for proposals for site layout, in order to improve my skillov.**
