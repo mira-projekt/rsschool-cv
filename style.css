@@ -1,0 +1,176 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  padding: 40px;
+  box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+  background-color: #ffffff;
+}
+
+h5 {
+  color: #000000;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0.42px;
+  margin-bottom: 14px;
+}
+
+.background {
+  display: flex;
+  flex-direction: row;
+  margin: 0 auto;
+  max-width: 1024px;
+}
+
+aside {
+  margin-right: 89px;
+  padding-top: 40px;
+  background-color: #1e2939;
+}
+
+.my-photo {
+  width: 370px;
+  height: 354px;
+}
+
+.sidebar-info {
+  width: 370px;
+  padding: 57px 0 0 41px;
+  min-height: 1319px;
+  color: #ffffff;
+}
+
+.sidebar-info-contacts {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 54px;
+}
+
+.sidebar-info-block {
+  margin-bottom: 52px;
+}
+
+.sidebar-info-title {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 20px;
+}
+
+.contacts-info,
+.contacts-text {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-right: 10px;
+}
+
+.contacts-text {
+  color: #fff;
+  opacity: 0.5;
+  letter-spacing: 0.42px;
+  text-decoration: none;
+}
+
+.sidebar-skills {
+  margin-left: 15px;
+}
+
+.sidebar-info-skill,
+.profession-name,
+.my-info {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.42px;
+}
+
+.main-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.profession-name {
+  color: #000000;
+  font-weight: 700;
+  margin-bottom: 24px;
+}
+
+.my-name {
+  color: #000000;
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 89px;
+  margin-bottom: 24px;
+}
+
+.my-info {
+  color: #595959;
+  max-width: 413px;
+  margin-bottom: 64px;
+}
+
+.project-container {
+  margin-bottom: 52px;
+}
+
+.title {
+  color: #000000;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 20px;
+}
+
+.subtitle {
+  color: #000000;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0.48px;
+  margin-bottom: 14px;
+}
+
+.subtitle span {
+  color: #ff6b08;
+}
+
+.period {
+  color: #a8a8a8;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.36px;
+  margin-bottom: 14px;
+}
+
+.project-list {
+  color: #000;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0.42px;
+  max-width: 520px;
+  padding-left: 15px;
+}
+
+.project-list li,
+.project-list li a,
+.project-list li span {
+  text-decoration: none;
+  color: #595959;
+  font-weight: 400;
+}
+
+.work-company {
+  margin-bottom: 30px;
+}
+
+.work-container {
+  margin-bottom: 55px;
+}
